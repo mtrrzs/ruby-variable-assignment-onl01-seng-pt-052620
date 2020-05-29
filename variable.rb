@@ -1,3 +1,4 @@
 greeting = "Hello World"
-  puts 
+  puts greeting
 end
+greeting
